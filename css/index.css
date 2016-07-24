@@ -1,0 +1,13 @@
+html,body{
+		height:100%;
+	}
+	body{
+		margin: 0;
+	}
+#sence{
+	height:100%;
+	width:100%;
+	background: url(../image/a.jpeg);
+	background-size: cover;
+	/*让图片刚好占满整个背景*/
+}
